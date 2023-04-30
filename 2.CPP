@@ -1,7 +1,8 @@
-#include<iostream.h>
+#include<iostream>
 #include<math.h>
 #include<graphics.h>
 
+using namespace std;
 
 void Circle_Points(int x1, int y1,int x,  int y, int value);
 void Circle(int x1, int y1, int r, int value)
