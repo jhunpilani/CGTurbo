@@ -1,11 +1,12 @@
 #include <iostream.h>
 #include <stdlib.h>
 #include <stdio.h>
-#include <dos.h>
-#include <conio.h>
+//#include <dos.h>
+//#include <conio.h>
 #include <graphics.h>
 // #include<windows.h>
-// using namespace std;
+
+using namespace std;
 
 int computeRegion(int x, int y, int x_min, int x_max, int y_min, int y_max)
 {
