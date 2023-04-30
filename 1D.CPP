@@ -1,10 +1,10 @@
-
-#include <iostream.h>
-#include <conio.h>
+#include <iostream>
+//#include <conio.h>
 #include <stdlib.h>
 #include <stdio.h>
 #include <graphics.h>
 
+using namespace std;
 
 void dda(int x1, int y1, int x2, int y2)
 {
