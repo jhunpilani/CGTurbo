@@ -1,8 +1,10 @@
-#include <iostream.h>
+#include <iostream>
 #include <graphics.h>
-#include <conio.h>
-// #include <stdlib.h>
-// #include <stdio.h>
+//#include <conio.h>
+#include <stdlib.h>
+#include <stdio.h>
+
+using namespace std;
 
 void Bresenham(int x1, int y1, int x2, int y2)
 {
